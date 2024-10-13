@@ -5,4 +5,3 @@ This project was inspired by the fact that current text-to-image models like Dal
 This project utilizes the Tagged Anime Illustrations dataset from Kaggle, which is not included in the repository and can be found here:
 https://www.kaggle.com/datasets/mylesoneill/tagged-anime-illustrations
 
-This project is for my learning purposes, and it is currently in the development stage. SageMaker training code is not posted in this repositroy due to data privacy issues.
